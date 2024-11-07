@@ -1,0 +1,251 @@
+Timestamp,Log Level,Process ID,Thread ID,Samba Component,Message Text,IP Address,User,Action,File Name
+2024/09/12 10:00:44.155,2,2550,8753,winbindd,File 'vulcan_philosophy.doc' viewed by user,192.168.1.12,Montgomery_Scott,view,vulcan_philosophy.doc
+2024/09/12 10:01:22.823,1,5657,6752,smbd,File 'vulcan_philosophy.doc' downloaded successfully,192.168.1.13,Worf,download,vulcan_philosophy.doc
+2024/09/12 10:03:33.509,2,8077,6503,nmbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.10,Worf,edit,delta_quadrant_exploration.doc
+2024/09/12 10:04:43.662,3,7274,8478,nmbd,File 'vulcan_philosophy.doc' edited by user,192.168.1.12,Deanna_Troi,edit,vulcan_philosophy.doc
+2024/09/12 10:06:11.254,2,4283,7788,nmbd,File 'klingon_rituals.txt' edited by user,192.168.1.14,Montgomery_Scott,edit,klingon_rituals.txt
+2024/09/12 10:07:11.519,3,9588,8948,nmbd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.18,Uhura,upload,starfleet_orders.xlsx
+2024/09/12 10:07:41.212,3,5539,7203,winbindd,File 'romulan_intrigue.doc' edited by user,192.168.1.14,Worf,edit,romulan_intrigue.doc
+2024/09/12 10:08:00.352,1,4577,8475,nmbd,File 'enterprise_report.txt' uploaded successfully,192.168.1.10,Hikaru_Sulu,upload,enterprise_report.txt
+2024/09/12 10:08:02.340,3,1506,8092,winbindd,File 'stellar_navigation.xlsx' viewed by user,192.168.1.14,Spock,view,stellar_navigation.xlsx
+2024/09/12 10:12:20.401,2,1847,3255,smbd,File 'vulcan_philosophy.doc' edited by user,192.168.1.18,Spock,edit,vulcan_philosophy.doc
+2024/09/12 10:15:23.528,1,6197,7014,winbindd,File 'delta_quadrant_exploration.doc' downloaded successfully,192.168.1.14,Montgomery_Scott,download,delta_quadrant_exploration.doc
+2024/09/12 10:18:00.541,1,6867,3629,smbd,File 'klingon_rituals.txt' edited by user,192.168.1.11,Deanna_Troi,edit,klingon_rituals.txt
+2024/09/12 10:18:07.872,1,9258,6595,smbd,File 'romulan_intrigue.doc' viewed by user,192.168.1.10,Spock,view,romulan_intrigue.doc
+2024/09/12 10:18:55.610,3,4405,1214,nmbd,File 'delta_quadrant_exploration.doc' uploaded successfully,192.168.1.17,Hikaru_Sulu,upload,delta_quadrant_exploration.doc
+2024/09/12 10:22:10.161,3,7213,9601,smbd,File 'vulcan_philosophy.doc' edited by user,192.168.1.16,Hikaru_Sulu,edit,vulcan_philosophy.doc
+2024/09/12 10:24:36.468,3,8834,3743,smbd,File 'borg_cube_data.xlsx' uploaded successfully,192.168.1.16,Worf,upload,borg_cube_data.xlsx
+2024/09/12 10:24:39.307,1,3999,2481,smbd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.10,James_T_Kirk,upload,starfleet_orders.xlsx
+2024/09/12 10:25:35.181,2,5494,9004,winbindd,File 'klingon_rituals.txt' viewed by user,192.168.1.11,Spock,view,klingon_rituals.txt
+2024/09/12 10:26:05.104,1,9988,7298,nmbd,File 'starfleet_orders.xlsx' edited by user,192.168.1.18,Deanna_Troi,edit,starfleet_orders.xlsx
+2024/09/12 10:30:18.646,1,8626,1509,nmbd,File 'captains_log.txt' downloaded successfully,192.168.1.12,Hikaru_Sulu,download,captains_log.txt
+2024/09/12 10:30:42.037,1,7912,4440,smbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.20,Deanna_Troi,edit,delta_quadrant_exploration.doc
+2024/09/12 10:35:30.581,3,8457,4765,winbindd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.15,James_T_Kirk,upload,starfleet_orders.xlsx
+2024/09/12 10:36:10.107,3,3670,5209,winbindd,File 'vulcan_philosophy.doc' edited by user,192.168.1.10,Montgomery_Scott,edit,vulcan_philosophy.doc
+2024/09/12 10:37:50.035,3,6948,3754,nmbd,File 'stellar_navigation.xlsx' edited by user,192.168.1.11,Pavel_Chekov,edit,stellar_navigation.xlsx
+2024/09/12 10:37:59.596,1,1655,3022,winbindd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.20,Deanna_Troi,view,delta_quadrant_exploration.doc
+2024/09/12 10:38:17.887,1,5593,5656,winbindd,File 'enterprise_report.txt' uploaded successfully,192.168.1.17,Uhura,upload,enterprise_report.txt
+2024/09/12 10:40:08.548,1,6929,2563,nmbd,File 'stellar_navigation.xlsx' viewed by user,192.168.1.16,Beverly_Crusher,view,stellar_navigation.xlsx
+2024/09/12 10:40:57.199,3,3414,5166,winbindd,File 'delta_quadrant_exploration.doc' downloaded successfully,192.168.1.13,Worf,download,delta_quadrant_exploration.doc
+2024/09/12 10:44:45.255,1,4461,7074,smbd,File 'romulan_intrigue.doc' viewed by user,192.168.1.10,James_T_Kirk,view,romulan_intrigue.doc
+2024/09/12 10:49:09.943,3,1968,3883,winbindd,File 'borg_cube_data.xlsx' downloaded successfully,192.168.1.15,Deanna_Troi,download,borg_cube_data.xlsx
+2024/09/12 10:54:15.868,3,1649,8103,smbd,File 'klingon_rituals.txt' viewed by user,192.168.1.19,James_T_Kirk,view,klingon_rituals.txt
+2024/09/12 10:55:14.514,3,9841,7310,smbd,File 'vulcan_philosophy.doc' downloaded successfully,192.168.1.14,Worf,download,vulcan_philosophy.doc
+2024/09/12 10:55:22.297,3,8665,2198,winbindd,File 'klingon_rituals.txt' downloaded successfully,192.168.1.20,Hikaru_Sulu,download,klingon_rituals.txt
+2024/09/12 10:57:52.230,3,5924,8574,smbd,File 'enterprise_report.txt' viewed by user,192.168.1.13,Uhura,view,enterprise_report.txt
+2024/09/12 10:59:02.440,2,8414,6192,winbindd,File 'vulcan_philosophy.doc' edited by user,192.168.1.16,Beverly_Crusher,edit,vulcan_philosophy.doc
+2024/09/12 11:00:04.176,3,6951,3517,smbd,File 'enterprise_report.txt' uploaded successfully,192.168.1.14,James_T_Kirk,upload,enterprise_report.txt
+2024/09/12 11:01:59.350,1,4248,4126,nmbd,File 'starfleet_orders.xlsx' downloaded successfully,192.168.1.16,Deanna_Troi,download,starfleet_orders.xlsx
+2024/09/12 11:03:12.893,1,2732,4368,smbd,File 'stellar_navigation.xlsx' uploaded successfully,192.168.1.10,Leonard_McCoy,upload,stellar_navigation.xlsx
+2024/09/12 11:03:30.822,3,8238,1685,nmbd,File 'klingon_rituals.txt' uploaded successfully,192.168.1.17,Montgomery_Scott,upload,klingon_rituals.txt
+2024/09/12 11:04:10.144,2,3312,2742,winbindd,File 'romulan_intrigue.doc' edited by user,192.168.1.20,James_T_Kirk,edit,romulan_intrigue.doc
+2024/09/12 11:04:33.314,3,3238,7564,nmbd,File 'borg_cube_data.xlsx' edited by user,192.168.1.16,Worf,edit,borg_cube_data.xlsx
+2024/09/12 11:07:02.855,1,4908,1107,smbd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.17,Hikaru_Sulu,upload,starfleet_orders.xlsx
+2024/09/12 11:07:29.766,2,9756,7007,winbindd,File 'enterprise_report.txt' uploaded successfully,192.168.1.20,Spock,upload,enterprise_report.txt
+2024/09/12 11:08:41.187,2,2888,6154,nmbd,File 'enterprise_report.txt' edited by user,192.168.1.17,Worf,edit,enterprise_report.txt
+2024/09/12 11:11:34.927,2,3899,4879,nmbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.15,Spock,edit,delta_quadrant_exploration.doc
+2024/09/12 11:12:52.644,1,4071,8190,winbindd,File 'klingon_rituals.txt' downloaded successfully,192.168.1.12,Hikaru_Sulu,download,klingon_rituals.txt
+2024/09/12 11:13:48.844,3,1615,1046,smbd,File 'borg_cube_data.xlsx' uploaded successfully,192.168.1.16,Worf,upload,borg_cube_data.xlsx
+2024/09/12 11:17:17.021,2,6881,1046,winbindd,File 'stellar_navigation.xlsx' viewed by user,192.168.1.19,Pavel_Chekov,view,stellar_navigation.xlsx
+2024/09/12 11:19:30.133,3,3905,2586,smbd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.18,Uhura,view,delta_quadrant_exploration.doc
+2024/09/12 11:19:30.267,1,9648,7389,smbd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.18,Deanna_Troi,download,romulan_intrigue.doc
+2024/09/12 11:19:47.539,2,4701,1098,smbd,File 'borg_cube_data.xlsx' viewed by user,192.168.1.12,Worf,view,borg_cube_data.xlsx
+2024/09/12 11:21:37.821,2,7517,3781,nmbd,File 'enterprise_report.txt' downloaded successfully,192.168.1.10,Spock,download,enterprise_report.txt
+2024/09/12 11:23:02.052,3,8811,2982,nmbd,File 'borg_cube_data.xlsx' viewed by user,192.168.1.16,Worf,view,borg_cube_data.xlsx
+2024/09/12 11:24:28.220,1,1896,3260,nmbd,File 'starfleet_secrets.txt' downloaded successfully,80.67.167.81,Klingon,download,starfleet_secrets.txt
+2024/09/12 11:24:52.310,3,3843,8264,nmbd,File 'starfleet_orders.xlsx' edited by user,192.168.1.11,Uhura,edit,starfleet_orders.xlsx
+2024/09/12 11:26:33.622,2,3091,8385,smbd,File 'borg_cube_data.xlsx' downloaded successfully,192.168.1.18,Worf,download,borg_cube_data.xlsx
+2024/09/12 11:28:15.427,1,3228,6466,winbindd,File 'captains_log.txt' viewed by user,192.168.1.11,Beverly_Crusher,view,captains_log.txt
+2024/09/12 11:28:20.140,3,8166,4076,smbd,File 'romulan_intrigue.doc' edited by user,192.168.1.14,Montgomery_Scott,edit,romulan_intrigue.doc
+2024/09/12 11:28:37.056,1,4428,1843,winbindd,File 'klingon_rituals.txt' uploaded successfully,192.168.1.14,Spock,upload,klingon_rituals.txt
+2024/09/12 11:32:38.253,1,7081,1185,smbd,File 'vulcan_philosophy.doc' edited by user,192.168.1.19,Beverly_Crusher,edit,vulcan_philosophy.doc
+2024/09/12 11:33:08.032,3,4228,3834,winbindd,File 'captains_log.txt' uploaded successfully,192.168.1.20,Hikaru_Sulu,upload,captains_log.txt
+2024/09/12 11:35:37.176,1,9976,7284,smbd,File 'captains_log.txt' viewed by user,192.168.1.11,Leonard_McCoy,view,captains_log.txt
+2024/09/12 11:36:25.000,1,8390,9028,nmbd,File 'romulan_intrigue.doc' edited by user,192.168.1.19,Worf,edit,romulan_intrigue.doc
+2024/09/12 11:36:29.513,2,9251,4736,smbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.17,James_T_Kirk,edit,delta_quadrant_exploration.doc
+2024/09/12 11:38:22.645,2,3095,7901,smbd,File 'enterprise_report.txt' downloaded successfully,192.168.1.19,James_T_Kirk,download,enterprise_report.txt
+2024/09/12 11:39:08.183,1,4891,9560,winbindd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.10,Montgomery_Scott,download,romulan_intrigue.doc
+2024/09/12 11:39:37.284,1,6396,3789,winbindd,File 'borg_cube_data.xlsx' downloaded successfully,192.168.1.15,Pavel_Chekov,download,borg_cube_data.xlsx
+2024/09/12 11:42:25.363,1,5178,5512,smbd,File 'starfleet_orders.xlsx' viewed by user,192.168.1.18,Worf,view,starfleet_orders.xlsx
+2024/09/12 11:49:38.445,1,1834,7327,nmbd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.14,Beverly_Crusher,upload,starfleet_orders.xlsx
+2024/09/12 11:51:42.208,2,6588,3176,smbd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.15,Beverly_Crusher,download,romulan_intrigue.doc
+2024/09/12 11:52:03.739,1,2683,5388,nmbd,File 'enterprise_report.txt' downloaded successfully,192.168.1.11,Montgomery_Scott,download,enterprise_report.txt
+2024/09/12 11:56:17.362,1,2605,3671,winbindd,File 'klingon_rituals.txt' uploaded successfully,192.168.1.11,Worf,upload,klingon_rituals.txt
+2024/09/12 11:56:35.078,1,9795,3028,winbindd,File 'starfleet_orders.xlsx' viewed by user,192.168.1.20,Deanna_Troi,view,starfleet_orders.xlsx
+2024/09/12 12:00:55.235,2,7797,3849,nmbd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.17,Uhura,upload,starfleet_orders.xlsx
+2024/09/12 12:05:38.778,2,6866,9743,winbindd,File 'starfleet_orders.xlsx' viewed by user,192.168.1.11,James_T_Kirk,view,starfleet_orders.xlsx
+2024/09/12 12:12:02.025,3,2316,1426,winbindd,File 'enterprise_report.txt' downloaded successfully,192.168.1.17,Leonard_McCoy,download,enterprise_report.txt
+2024/09/12 12:16:24.224,2,8807,4659,smbd,File 'captains_log.txt' downloaded successfully,192.168.1.17,Uhura,download,captains_log.txt
+2024/09/12 12:16:51.241,2,4425,4530,smbd,File 'enterprise_report.txt' edited by user,192.168.1.18,Deanna_Troi,edit,enterprise_report.txt
+2024/09/12 12:18:02.310,2,1857,1495,smbd,File 'captains_log.txt' edited by user,192.168.1.13,Deanna_Troi,edit,captains_log.txt
+2024/09/12 12:19:39.191,1,4847,3398,winbindd,File 'stellar_navigation.xlsx' edited by user,192.168.1.12,Deanna_Troi,edit,stellar_navigation.xlsx
+2024/09/12 12:22:47.056,1,9512,7532,winbindd,File 'enterprise_report.txt' edited by user,192.168.1.20,Pavel_Chekov,edit,enterprise_report.txt
+2024/09/12 12:23:00.001,1,1158,9379,smbd,File 'captains_log.txt' viewed by user,192.168.1.18,Uhura,view,captains_log.txt
+2024/09/12 12:32:01.058,3,5098,2923,nmbd,File 'stellar_navigation.xlsx' downloaded successfully,192.168.1.11,Pavel_Chekov,download,stellar_navigation.xlsx
+2024/09/12 12:32:25.284,2,7238,5620,smbd,File 'captains_log.txt' edited by user,192.168.1.19,Hikaru_Sulu,edit,captains_log.txt
+2024/09/12 12:36:48.598,1,8226,9586,nmbd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.11,Beverly_Crusher,upload,starfleet_orders.xlsx
+2024/09/12 12:36:55.147,1,6849,8238,smbd,File 'starfleet_orders.xlsx' edited by user,192.168.1.11,Leonard_McCoy,edit,starfleet_orders.xlsx
+2024/09/12 12:40:14.191,1,8573,6299,nmbd,File 'vulcan_philosophy.doc' downloaded successfully,192.168.1.18,Worf,download,vulcan_philosophy.doc
+2024/09/12 12:42:46.550,1,1310,9102,smbd,File 'starfleet_orders.xlsx' downloaded successfully,192.168.1.14,Worf,download,starfleet_orders.xlsx
+2024/09/12 12:45:48.165,1,4394,1230,nmbd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.12,Uhura,download,romulan_intrigue.doc
+2024/09/12 12:51:58.572,2,1429,6338,smbd,File 'enterprise_report.txt' viewed by user,192.168.1.20,Deanna_Troi,view,enterprise_report.txt
+2024/09/12 12:53:35.857,2,5573,3694,smbd,File 'klingon_rituals.txt' viewed by user,192.168.1.14,James_T_Kirk,view,klingon_rituals.txt
+2024/09/12 12:55:24.906,3,1393,6455,smbd,File 'romulan_intrigue.doc' uploaded successfully,192.168.1.13,Uhura,upload,romulan_intrigue.doc
+2024/09/12 12:58:16.677,3,3392,6858,smbd,File 'stellar_navigation.xlsx' edited by user,192.168.1.17,Montgomery_Scott,edit,stellar_navigation.xlsx
+2024/09/12 13:00:55.827,3,5310,4153,smbd,File 'delta_quadrant_exploration.doc' uploaded successfully,192.168.1.10,Beverly_Crusher,upload,delta_quadrant_exploration.doc
+2024/09/12 13:03:00.047,2,6924,8559,smbd,File 'stellar_navigation.xlsx' uploaded successfully,192.168.1.17,Uhura,upload,stellar_navigation.xlsx
+2024/09/12 13:03:12.942,3,7012,6834,winbindd,File 'captains_log.txt' downloaded successfully,192.168.1.17,Uhura,download,captains_log.txt
+2024/09/12 13:06:10.921,1,7438,7473,nmbd,File 'klingon_rituals.txt' downloaded successfully,192.168.1.18,Montgomery_Scott,download,klingon_rituals.txt
+2024/09/12 13:06:50.830,1,2436,9467,nmbd,File 'enterprise_report.txt' edited by user,192.168.1.19,Deanna_Troi,edit,enterprise_report.txt
+2024/09/12 13:07:39.144,3,1250,5914,nmbd,File 'borg_cube_data.xlsx' viewed by user,192.168.1.19,Deanna_Troi,view,borg_cube_data.xlsx
+2024/09/12 13:09:00.429,2,7164,1987,nmbd,File 'romulan_intrigue.doc' edited by user,192.168.1.15,Uhura,edit,romulan_intrigue.doc
+2024/09/12 13:11:00.121,3,1497,6814,winbindd,File 'klingon_rituals.txt' edited by user,192.168.1.16,Spock,edit,klingon_rituals.txt
+2024/09/12 13:11:58.977,2,4908,4879,nmbd,File 'captains_log.txt' downloaded successfully,192.168.1.17,Pavel_Chekov,download,captains_log.txt
+2024/09/12 13:12:06.127,3,2792,6451,smbd,File 'enterprise_report.txt' uploaded successfully,192.168.1.10,Pavel_Chekov,upload,enterprise_report.txt
+2024/09/12 13:12:55.485,1,1072,8988,winbindd,File 'captains_log.txt' viewed by user,192.168.1.19,Uhura,view,captains_log.txt
+2024/09/12 13:17:18.291,3,9631,9601,nmbd,File 'captains_log.txt' edited by user,192.168.1.16,Pavel_Chekov,edit,captains_log.txt
+2024/09/12 13:20:03.798,3,7671,4626,nmbd,File 'enterprise_report.txt' uploaded successfully,192.168.1.20,Uhura,upload,enterprise_report.txt
+2024/09/12 13:22:20.394,2,2343,2584,winbindd,File 'captains_log.txt' uploaded successfully,192.168.1.20,Deanna_Troi,upload,captains_log.txt
+2024/09/12 13:22:45.648,3,6752,5003,winbindd,File 'enterprise_report.txt' downloaded successfully,192.168.1.18,James_T_Kirk,download,enterprise_report.txt
+2024/09/12 13:24:00.526,3,8031,4310,winbindd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.20,Leonard_McCoy,view,delta_quadrant_exploration.doc
+2024/09/12 13:24:03.024,1,6820,4423,smbd,File 'klingon_rituals.txt' uploaded successfully,192.168.1.17,Spock,upload,klingon_rituals.txt
+2024/09/12 13:27:59.381,3,7381,6295,smbd,File 'captains_log.txt' edited by user,192.168.1.16,Uhura,edit,captains_log.txt
+2024/09/12 13:31:48.258,3,2270,9899,smbd,File 'delta_quadrant_exploration.doc' uploaded successfully,192.168.1.15,Uhura,upload,delta_quadrant_exploration.doc
+2024/09/12 13:34:25.418,3,6361,7373,nmbd,File 'enterprise_report.txt' downloaded successfully,192.168.1.12,Deanna_Troi,download,enterprise_report.txt
+2024/09/12 13:34:56.056,1,9425,6584,smbd,File 'enterprise_report.txt' downloaded successfully,192.168.1.12,Beverly_Crusher,download,enterprise_report.txt
+2024/09/12 13:36:48.080,1,9430,2745,winbindd,File 'captains_log.txt' edited by user,192.168.1.20,Spock,edit,captains_log.txt
+2024/09/12 13:37:09.029,2,6047,6167,winbindd,File 'stellar_navigation.xlsx' edited by user,192.168.1.20,Hikaru_Sulu,edit,stellar_navigation.xlsx
+2024/09/12 13:37:41.718,1,8858,2044,winbindd,File 'borg_cube_data.xlsx' viewed by user,192.168.1.16,Pavel_Chekov,view,borg_cube_data.xlsx
+2024/09/12 13:40:19.102,2,3393,4936,smbd,File 'stellar_navigation.xlsx' downloaded successfully,192.168.1.19,Hikaru_Sulu,download,stellar_navigation.xlsx
+2024/09/12 13:42:41.880,2,8546,7005,nmbd,File 'vulcan_philosophy.doc' uploaded successfully,192.168.1.16,Hikaru_Sulu,upload,vulcan_philosophy.doc
+2024/09/12 13:47:38.905,1,9123,6376,winbindd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.18,Hikaru_Sulu,download,romulan_intrigue.doc
+2024/09/12 13:49:41.264,3,2028,1963,nmbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.13,Pavel_Chekov,edit,delta_quadrant_exploration.doc
+2024/09/12 13:50:32.404,2,1144,5929,nmbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.19,Worf,edit,delta_quadrant_exploration.doc
+2024/09/12 13:54:47.317,3,4467,9391,smbd,File 'captains_log.txt' viewed by user,192.168.1.16,Hikaru_Sulu,view,captains_log.txt
+2024/09/12 13:54:51.425,2,1927,8404,nmbd,File 'enterprise_report.txt' uploaded successfully,192.168.1.11,James_T_Kirk,upload,enterprise_report.txt
+2024/09/12 13:57:28.671,3,7313,9682,nmbd,File 'vulcan_philosophy.doc' uploaded successfully,192.168.1.13,Uhura,upload,vulcan_philosophy.doc
+2024/09/12 13:58:19.534,1,2340,9106,smbd,File 'delta_quadrant_exploration.doc' uploaded successfully,192.168.1.15,Leonard_McCoy,upload,delta_quadrant_exploration.doc
+2024/09/12 13:58:30.874,1,6491,2035,winbindd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.10,Pavel_Chekov,download,romulan_intrigue.doc
+2024/09/12 13:59:46.008,3,6335,5831,nmbd,File 'stellar_navigation.xlsx' viewed by user,192.168.1.16,Spock,view,stellar_navigation.xlsx
+2024/09/12 14:02:19.497,2,1825,1607,winbindd,File 'klingon_rituals.txt' uploaded successfully,192.168.1.19,Leonard_McCoy,upload,klingon_rituals.txt
+2024/09/12 14:06:40.388,3,2440,2042,smbd,File 'starfleet_orders.xlsx' downloaded successfully,192.168.1.13,Hikaru_Sulu,download,starfleet_orders.xlsx
+2024/09/12 14:13:42.633,1,8787,9406,smbd,File 'klingon_rituals.txt' viewed by user,192.168.1.10,Beverly_Crusher,view,klingon_rituals.txt
+2024/09/12 14:14:00.860,2,1561,3208,winbindd,File 'borg_cube_data.xlsx' uploaded successfully,192.168.1.16,Pavel_Chekov,upload,borg_cube_data.xlsx
+2024/09/12 14:14:25.303,3,4322,3201,winbindd,File 'captains_log.txt' edited by user,192.168.1.19,Deanna_Troi,edit,captains_log.txt
+2024/09/12 14:14:52.826,3,5659,4785,winbindd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.19,Leonard_McCoy,upload,starfleet_orders.xlsx
+2024/09/12 14:21:31.446,1,4791,8854,winbindd,File 'captains_log.txt' viewed by user,192.168.1.12,Leonard_McCoy,view,captains_log.txt
+2024/09/12 14:21:50.155,2,3862,1634,winbindd,File 'enterprise_report.txt' viewed by user,192.168.1.18,Worf,view,enterprise_report.txt
+2024/09/12 14:23:47.573,3,8463,2360,winbindd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.19,Deanna_Troi,view,delta_quadrant_exploration.doc
+2024/09/12 14:24:38.219,1,3527,9460,winbindd,File 'borg_cube_data.xlsx' viewed by user,192.168.1.20,Montgomery_Scott,view,borg_cube_data.xlsx
+2024/09/12 14:28:48.504,1,7819,7290,smbd,File 'borg_cube_data.xlsx' uploaded successfully,192.168.1.14,Beverly_Crusher,upload,borg_cube_data.xlsx
+2024/09/12 14:29:47.999,3,2075,8323,winbindd,File 'enterprise_report.txt' edited by user,192.168.1.15,Deanna_Troi,edit,enterprise_report.txt
+2024/09/12 14:31:45.909,1,6662,8496,smbd,File 'starfleet_orders.xlsx' downloaded successfully,192.168.1.12,Spock,download,starfleet_orders.xlsx
+2024/09/12 14:32:29.273,3,9006,4662,winbindd,File 'romulan_intrigue.doc' viewed by user,192.168.1.11,Deanna_Troi,view,romulan_intrigue.doc
+2024/09/12 14:32:31.020,2,3594,1534,winbindd,File 'captains_log.txt' viewed by user,192.168.1.12,Uhura,view,captains_log.txt
+2024/09/12 14:34:10.918,1,3984,3467,smbd,File 'starfleet_orders.xlsx' viewed by user,192.168.1.13,Pavel_Chekov,view,starfleet_orders.xlsx
+2024/09/12 14:37:00.904,1,3086,6387,winbindd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.13,Beverly_Crusher,upload,starfleet_orders.xlsx
+2024/09/12 14:37:03.036,2,1919,7370,smbd,File 'borg_cube_data.xlsx' uploaded successfully,192.168.1.14,Leonard_McCoy,upload,borg_cube_data.xlsx
+2024/09/12 14:38:58.307,1,1531,7003,nmbd,File 'klingon_rituals.txt' edited by user,192.168.1.18,Worf,edit,klingon_rituals.txt
+2024/09/12 14:40:02.037,1,3684,1194,smbd,File 'klingon_rituals.txt' edited by user,192.168.1.13,James_T_Kirk,edit,klingon_rituals.txt
+2024/09/12 14:40:59.963,1,1063,8554,nmbd,File 'delta_quadrant_exploration.doc' downloaded successfully,192.168.1.13,Uhura,download,delta_quadrant_exploration.doc
+2024/09/12 14:45:25.177,2,1323,4535,smbd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.15,Uhura,view,delta_quadrant_exploration.doc
+2024/09/12 14:49:54.473,2,1119,2299,winbindd,File 'klingon_rituals.txt' viewed by user,192.168.1.16,James_T_Kirk,view,klingon_rituals.txt
+2024/09/12 14:50:48.813,2,4462,8078,smbd,File 'romulan_intrigue.doc' viewed by user,192.168.1.17,Worf,view,romulan_intrigue.doc
+2024/09/12 14:55:07.354,3,6944,8448,nmbd,File 'vulcan_philosophy.doc' edited by user,192.168.1.17,Montgomery_Scott,edit,vulcan_philosophy.doc
+2024/09/12 14:59:10.352,3,5521,8431,nmbd,File 'romulan_intrigue.doc' viewed by user,192.168.1.12,Hikaru_Sulu,view,romulan_intrigue.doc
+2024/09/12 15:00:38.554,2,8686,5284,nmbd,File 'romulan_intrigue.doc' uploaded successfully,192.168.1.11,Hikaru_Sulu,upload,romulan_intrigue.doc
+2024/09/12 15:01:12.445,3,5405,6397,nmbd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.11,Beverly_Crusher,view,delta_quadrant_exploration.doc
+2024/09/12 15:03:22.085,3,5439,9402,winbindd,File 'borg_cube_data.xlsx' viewed by user,192.168.1.11,Hikaru_Sulu,view,borg_cube_data.xlsx
+2024/09/12 15:03:52.992,2,7247,3912,winbindd,File 'klingon_rituals.txt' uploaded successfully,192.168.1.12,Leonard_McCoy,upload,klingon_rituals.txt
+2024/09/12 15:07:19.212,3,4477,1626,smbd,File 'klingon_rituals.txt' downloaded successfully,192.168.1.13,James_T_Kirk,download,klingon_rituals.txt
+2024/09/12 15:07:21.652,1,5545,5990,smbd,File 'starfleet_orders.xlsx' downloaded successfully,192.168.1.18,Uhura,download,starfleet_orders.xlsx
+2024/09/12 15:07:38.975,1,4901,6869,smbd,File 'delta_quadrant_exploration.doc' uploaded successfully,192.168.1.10,Worf,upload,delta_quadrant_exploration.doc
+2024/09/12 15:08:35.998,2,1524,2388,smbd,File 'captains_log.txt' viewed by user,192.168.1.12,Uhura,view,captains_log.txt
+2024/09/12 15:08:41.910,2,5457,3803,nmbd,File 'romulan_intrigue.doc' edited by user,192.168.1.10,Hikaru_Sulu,edit,romulan_intrigue.doc
+2024/09/12 15:09:07.648,1,6460,1465,smbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.13,Spock,edit,delta_quadrant_exploration.doc
+2024/09/12 15:09:15.155,2,4179,6888,smbd,File 'klingon_rituals.txt' viewed by user,192.168.1.13,Leonard_McCoy,view,klingon_rituals.txt
+2024/09/12 15:09:52.740,1,7637,4049,winbindd,File 'klingon_rituals.txt' downloaded successfully,192.168.1.18,Pavel_Chekov,download,klingon_rituals.txt
+2024/09/12 15:10:58.339,1,8197,4663,winbindd,File 'klingon_rituals.txt' viewed by user,192.168.1.17,Uhura,view,klingon_rituals.txt
+2024/09/12 15:12:15.618,1,3084,6277,winbindd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.16,Leonard_McCoy,view,delta_quadrant_exploration.doc
+2024/09/12 15:15:29.772,3,1768,4249,winbindd,File 'stellar_navigation.xlsx' edited by user,192.168.1.20,Pavel_Chekov,edit,stellar_navigation.xlsx
+2024/09/12 15:22:55.629,3,7027,6939,nmbd,File 'vulcan_philosophy.doc' uploaded successfully,192.168.1.11,Worf,upload,vulcan_philosophy.doc
+2024/09/12 15:24:45.050,2,8193,4337,winbindd,File 'klingon_rituals.txt' edited by user,192.168.1.19,Montgomery_Scott,edit,klingon_rituals.txt
+2024/09/12 15:28:03.146,3,1241,3366,nmbd,File 'stellar_navigation.xlsx' viewed by user,192.168.1.17,Worf,view,stellar_navigation.xlsx
+2024/09/12 15:28:15.213,2,8882,4035,smbd,File 'borg_cube_data.xlsx' uploaded successfully,192.168.1.16,Uhura,upload,borg_cube_data.xlsx
+2024/09/12 15:29:54.196,2,1774,4655,smbd,File 'captains_log.txt' viewed by user,192.168.1.10,James_T_Kirk,view,captains_log.txt
+2024/09/12 15:34:02.858,2,5184,5191,nmbd,File 'klingon_rituals.txt' edited by user,192.168.1.18,Leonard_McCoy,edit,klingon_rituals.txt
+2024/09/12 15:34:15.790,1,5713,5819,winbindd,File 'delta_quadrant_exploration.doc' uploaded successfully,192.168.1.12,Worf,upload,delta_quadrant_exploration.doc
+2024/09/12 15:37:01.774,2,2673,4000,winbindd,File 'vulcan_philosophy.doc' downloaded successfully,192.168.1.19,Worf,download,vulcan_philosophy.doc
+2024/09/12 15:38:09.456,1,7420,1983,winbindd,File 'captains_log.txt' uploaded successfully,192.168.1.11,Deanna_Troi,upload,captains_log.txt
+2024/09/12 15:41:15.412,3,7374,5627,smbd,File 'starfleet_orders.xlsx' downloaded successfully,192.168.1.12,Spock,download,starfleet_orders.xlsx
+2024/09/12 15:44:13.264,3,7464,4739,winbindd,File 'stellar_navigation.xlsx' downloaded successfully,192.168.1.12,Leonard_McCoy,download,stellar_navigation.xlsx
+2024/09/12 15:45:16.041,2,3611,9438,smbd,File 'borg_cube_data.xlsx' downloaded successfully,192.168.1.17,Worf,download,borg_cube_data.xlsx
+2024/09/12 15:48:04.565,1,5285,7940,smbd,File 'klingon_rituals.txt' downloaded successfully,192.168.1.10,James_T_Kirk,download,klingon_rituals.txt
+2024/09/12 15:53:06.848,1,7747,4123,smbd,File 'romulan_intrigue.doc' uploaded successfully,192.168.1.15,Hikaru_Sulu,upload,romulan_intrigue.doc
+2024/09/12 15:53:35.847,2,8864,7185,smbd,File 'vulcan_philosophy.doc' uploaded successfully,192.168.1.14,James_T_Kirk,upload,vulcan_philosophy.doc
+2024/09/12 15:54:44.891,1,9171,8063,smbd,File 'stellar_navigation.xlsx' downloaded successfully,192.168.1.14,Hikaru_Sulu,download,stellar_navigation.xlsx
+2024/09/12 15:57:50.997,3,9698,8589,smbd,File 'klingon_rituals.txt' uploaded successfully,192.168.1.14,Montgomery_Scott,upload,klingon_rituals.txt
+2024/09/12 15:58:25.814,2,9750,5794,winbindd,File 'borg_cube_data.xlsx' viewed by user,192.168.1.18,Hikaru_Sulu,view,borg_cube_data.xlsx
+2024/09/12 15:59:46.570,3,6281,5709,smbd,File 'vulcan_philosophy.doc' downloaded successfully,192.168.1.15,Hikaru_Sulu,download,vulcan_philosophy.doc
+2024/09/12 16:00:57.909,3,2190,7468,nmbd,File 'stellar_navigation.xlsx' downloaded successfully,192.168.1.15,Hikaru_Sulu,download,stellar_navigation.xlsx
+2024/09/12 16:01:57.869,2,6183,5193,smbd,File 'romulan_intrigue.doc' viewed by user,192.168.1.13,Leonard_McCoy,view,romulan_intrigue.doc
+2024/09/12 16:03:15.580,1,5537,3260,smbd,File 'borg_cube_data.xlsx' downloaded successfully,192.168.1.10,James_T_Kirk,download,borg_cube_data.xlsx
+2024/09/12 16:05:08.212,3,9788,4048,winbindd,File 'starfleet_orders.xlsx' edited by user,192.168.1.18,Montgomery_Scott,edit,starfleet_orders.xlsx
+2024/09/12 16:05:11.874,2,4386,7835,smbd,File 'stellar_navigation.xlsx' edited by user,192.168.1.14,Worf,edit,stellar_navigation.xlsx
+2024/09/12 16:07:34.611,2,3817,3972,nmbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.11,Uhura,edit,delta_quadrant_exploration.doc
+2024/09/12 16:09:09.593,2,9957,1789,winbindd,File 'vulcan_philosophy.doc' viewed by user,192.168.1.14,Pavel_Chekov,view,vulcan_philosophy.doc
+2024/09/12 16:10:49.674,1,2105,1442,smbd,File 'starfleet_orders.xlsx' viewed by user,192.168.1.20,Pavel_Chekov,view,starfleet_orders.xlsx
+2024/09/12 16:12:56.528,1,2240,2186,winbindd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.19,Hikaru_Sulu,view,delta_quadrant_exploration.doc
+2024/09/12 16:13:03.911,3,5238,9050,winbindd,File 'borg_cube_data.xlsx' uploaded successfully,192.168.1.14,Uhura,upload,borg_cube_data.xlsx
+2024/09/12 16:13:11.832,3,6620,3833,winbindd,File 'captains_log.txt' downloaded successfully,192.168.1.15,Montgomery_Scott,download,captains_log.txt
+2024/09/12 16:22:18.643,3,3385,3549,smbd,File 'delta_quadrant_exploration.doc' uploaded successfully,192.168.1.19,Spock,upload,delta_quadrant_exploration.doc
+2024/09/12 16:22:46.736,1,4279,9192,smbd,File 'klingon_rituals.txt' edited by user,192.168.1.14,Hikaru_Sulu,edit,klingon_rituals.txt
+2024/09/12 16:30:52.345,3,2813,8725,nmbd,File 'borg_cube_data.xlsx' viewed by user,192.168.1.20,Montgomery_Scott,view,borg_cube_data.xlsx
+2024/09/12 16:32:43.271,2,7894,7316,nmbd,File 'delta_quadrant_exploration.doc' edited by user,192.168.1.10,Worf,edit,delta_quadrant_exploration.doc
+2024/09/12 16:36:38.082,2,9580,3037,smbd,File 'romulan_intrigue.doc' edited by user,192.168.1.14,Uhura,edit,romulan_intrigue.doc
+2024/09/12 16:36:45.842,2,1274,9256,smbd,File 'klingon_rituals.txt' edited by user,192.168.1.16,Leonard_McCoy,edit,klingon_rituals.txt
+2024/09/12 16:37:15.433,3,5778,6991,winbindd,File 'vulcan_philosophy.doc' downloaded successfully,192.168.1.11,James_T_Kirk,download,vulcan_philosophy.doc
+2024/09/12 16:45:58.775,2,9736,6329,nmbd,File 'vulcan_philosophy.doc' viewed by user,192.168.1.20,Spock,view,vulcan_philosophy.doc
+2024/09/12 16:47:02.170,2,9919,6211,winbindd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.11,Deanna_Troi,upload,starfleet_orders.xlsx
+2024/09/12 16:49:59.947,2,1478,6123,smbd,File 'romulan_intrigue.doc' edited by user,192.168.1.16,Deanna_Troi,edit,romulan_intrigue.doc
+2024/09/12 16:55:57.269,1,6878,7493,smbd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.15,Uhura,download,romulan_intrigue.doc
+2024/09/12 16:57:00.665,3,5286,4548,smbd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.15,Beverly_Crusher,view,delta_quadrant_exploration.doc
+2024/09/12 16:58:26.678,3,9891,3040,winbindd,File 'enterprise_report.txt' downloaded successfully,192.168.1.11,Uhura,download,enterprise_report.txt
+2024/09/12 16:58:31.160,2,1460,2159,smbd,File 'vulcan_philosophy.doc' uploaded successfully,192.168.1.17,Uhura,upload,vulcan_philosophy.doc
+2024/09/12 17:04:12.812,2,4549,8756,nmbd,File 'starfleet_orders.xlsx' viewed by user,192.168.1.20,Worf,view,starfleet_orders.xlsx
+2024/09/12 17:06:10.112,3,4205,4877,smbd,File 'klingon_rituals.txt' edited by user,192.168.1.14,Hikaru_Sulu,edit,klingon_rituals.txt
+2024/09/12 17:06:44.010,3,1352,4538,nmbd,File 'delta_quadrant_exploration.doc' uploaded successfully,192.168.1.14,Pavel_Chekov,upload,delta_quadrant_exploration.doc
+2024/09/12 17:07:54.274,2,3955,8866,nmbd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.12,James_T_Kirk,upload,starfleet_orders.xlsx
+2024/09/12 17:08:46.339,1,3997,9308,smbd,File 'starfleet_orders.xlsx' uploaded successfully,192.168.1.14,Deanna_Troi,upload,starfleet_orders.xlsx
+2024/09/12 17:09:08.398,1,8403,2035,smbd,File 'romulan_intrigue.doc' edited by user,192.168.1.17,Montgomery_Scott,edit,romulan_intrigue.doc
+2024/09/12 17:11:55.118,3,4165,2025,nmbd,File 'borg_cube_data.xlsx' downloaded successfully,192.168.1.10,Leonard_McCoy,download,borg_cube_data.xlsx
+2024/09/12 17:12:28.423,1,2602,2033,winbindd,File 'delta_quadrant_exploration.doc' downloaded successfully,192.168.1.18,Leonard_McCoy,download,delta_quadrant_exploration.doc
+2024/09/12 17:14:00.904,3,3295,7116,nmbd,File 'romulan_intrigue.doc' uploaded successfully,192.168.1.18,Beverly_Crusher,upload,romulan_intrigue.doc
+2024/09/12 17:18:08.927,3,2600,9753,winbindd,File 'romulan_intrigue.doc' viewed by user,192.168.1.10,Beverly_Crusher,view,romulan_intrigue.doc
+2024/09/12 17:20:06.968,2,5916,8770,smbd,File 'enterprise_report.txt' uploaded successfully,192.168.1.11,Deanna_Troi,upload,enterprise_report.txt
+2024/09/12 17:21:09.644,2,2532,3394,smbd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.11,Beverly_Crusher,view,delta_quadrant_exploration.doc
+2024/09/12 17:26:50.818,2,4852,3139,winbindd,File 'stellar_navigation.xlsx' downloaded successfully,192.168.1.13,Beverly_Crusher,download,stellar_navigation.xlsx
+2024/09/12 17:27:30.458,3,3643,6068,nmbd,File 'romulan_intrigue.doc' uploaded successfully,192.168.1.10,Pavel_Chekov,upload,romulan_intrigue.doc
+2024/09/12 17:28:59.360,3,4026,1072,winbindd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.17,Montgomery_Scott,view,delta_quadrant_exploration.doc
+2024/09/12 17:30:46.759,1,7982,9307,smbd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.15,Leonard_McCoy,download,romulan_intrigue.doc
+2024/09/12 17:30:51.353,2,3884,5037,nmbd,File 'stellar_navigation.xlsx' downloaded successfully,192.168.1.20,Uhura,download,stellar_navigation.xlsx
+2024/09/12 17:36:22.126,3,8121,8137,smbd,File 'starfleet_orders.xlsx' edited by user,192.168.1.11,Deanna_Troi,edit,starfleet_orders.xlsx
+2024/09/12 17:38:20.799,3,4537,4492,winbindd,File 'stellar_navigation.xlsx' edited by user,192.168.1.20,Pavel_Chekov,edit,stellar_navigation.xlsx
+2024/09/12 17:38:34.983,2,6843,3101,nmbd,File 'captains_log.txt' uploaded successfully,192.168.1.11,Montgomery_Scott,upload,captains_log.txt
+2024/09/12 17:38:40.431,1,7192,3599,winbindd,File 'captains_log.txt' downloaded successfully,192.168.1.12,Pavel_Chekov,download,captains_log.txt
+2024/09/12 17:39:08.846,2,6519,7330,smbd,File 'vulcan_philosophy.doc' uploaded successfully,192.168.1.10,Pavel_Chekov,upload,vulcan_philosophy.doc
+2024/09/12 17:39:36.434,1,5851,9606,smbd,File 'enterprise_report.txt' uploaded successfully,192.168.1.10,Pavel_Chekov,upload,enterprise_report.txt
+2024/09/12 17:40:14.347,1,8791,1510,smbd,File 'delta_quadrant_exploration.doc' viewed by user,192.168.1.11,James_T_Kirk,view,delta_quadrant_exploration.doc
+2024/09/12 17:41:31.909,3,4231,6586,nmbd,File 'captains_log.txt' downloaded successfully,192.168.1.18,Uhura,download,captains_log.txt
+2024/09/12 17:41:49.143,2,7196,6077,winbindd,File 'stellar_navigation.xlsx' edited by user,192.168.1.20,Montgomery_Scott,edit,stellar_navigation.xlsx
+2024/09/12 17:41:56.499,1,3811,2104,winbindd,File 'enterprise_report.txt' edited by user,192.168.1.18,Deanna_Troi,edit,enterprise_report.txt
+2024/09/12 17:44:33.945,3,3783,5022,smbd,File 'klingon_rituals.txt' downloaded successfully,192.168.1.11,Uhura,download,klingon_rituals.txt
+2024/09/12 17:44:51.529,1,6182,4000,winbindd,File 'delta_quadrant_exploration.doc' downloaded successfully,192.168.1.10,Deanna_Troi,download,delta_quadrant_exploration.doc
+2024/09/12 17:45:31.748,3,9327,6714,winbindd,File 'borg_cube_data.xlsx' downloaded successfully,192.168.1.11,Worf,download,borg_cube_data.xlsx
+2024/09/12 17:49:19.194,2,4491,5029,nmbd,File 'captains_log.txt' uploaded successfully,192.168.1.20,Hikaru_Sulu,upload,captains_log.txt
+2024/09/12 17:49:34.257,3,2908,4483,winbindd,File 'delta_quadrant_exploration.doc' downloaded successfully,192.168.1.19,Montgomery_Scott,download,delta_quadrant_exploration.doc
+2024/09/12 17:57:42.732,3,6623,1302,nmbd,File 'enterprise_report.txt' downloaded successfully,192.168.1.14,Hikaru_Sulu,download,enterprise_report.txt
+2024/09/12 17:58:04.950,2,1731,3693,winbindd,File 'borg_cube_data.xlsx' edited by user,192.168.1.10,James_T_Kirk,edit,borg_cube_data.xlsx
+2024/09/12 17:58:11.891,1,8118,9627,winbindd,File 'romulan_intrigue.doc' downloaded successfully,192.168.1.15,Deanna_Troi,download,romulan_intrigue.doc
+2024/09/12 17:59:17.547,3,6994,2579,smbd,File 'enterprise_report.txt' downloaded successfully,192.168.1.14,Worf,download,enterprise_report.txt
+2024/09/12 17:59:55.568,2,6539,6293,winbindd,File 'borg_cube_data.xlsx' uploaded successfully,192.168.1.13,Pavel_Chekov,upload,borg_cube_data.xlsx

@@ -1,0 +1,620 @@
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:21:00.000Z
+    EventRecordID: 12346
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:21:10.000Z
+    EventRecordID: 12347
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:21:30.000Z
+    EventRecordID: 12348
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:21:40.000Z
+    EventRecordID: 12349
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:22:01.000Z
+    EventRecordID: 12350
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:22:43.000Z
+    EventRecordID: 12351
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:23:18.000Z
+    EventRecordID: 12352
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+  ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:23:51.000Z
+    EventRecordID: 12353
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:24:07.000Z
+    EventRecordID: 12354
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:24:23.000Z
+    EventRecordID: 12355
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:24:42.000Z
+    EventRecordID: 12356
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:25:11.000Z
+    EventRecordID: 12357
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:25:28.000Z
+    EventRecordID: 12358
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4625
+    Version: 0
+    Level: 0
+    Task: 12546
+    Opcode: 0
+    Keywords: 0x8010000000000000
+    TimeCreated SystemTime: 2024-09-10T11:25:50.000Z
+    EventRecordID: 12359
+    Correlation: 
+    Execution ProcessID: 1235 ThreadID: 5679
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-0-0
+    TargetUserName: Admin
+    TargetDomainName: DC
+    Status: 0xc000006d
+    FailureReason: %%2313
+    SubStatus: 0xc000006a
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44d
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+ ----------------------------------------------------------------------------
+ 
+ ----------------------------------------------------------------------------
+Event:
+  System:
+    Provider Name: Microsoft-Windows-Security-Auditing
+    EventID: 4624
+    Version: 2
+    Level: 0
+    Task: 12544
+    Opcode: 0
+    Keywords: 0x8020000000000000
+    TimeCreated SystemTime: 2024-09-10T11:26:01.000Z
+    EventRecordID: 12360
+    Correlation: 
+    Execution ProcessID: 1234 ThreadID: 5678
+    Channel: Security
+    Computer: DC
+    Security: 
+  EventData:
+    SubjectUserSid: S-1-5-18
+    SubjectUserName: DC$
+    SubjectDomainName: WORKGROUP
+    SubjectLogonId: 0x3e7
+    TargetUserSid: S-1-5-21-1234567890-123456789-1234567890-1001
+    TargetUserName: Admin
+    TargetDomainName: DC
+    TargetLogonId: 0x12345
+    LogonType: 10
+    LogonProcessName: User32
+    AuthenticationPackageName: Negotiate
+    WorkstationName: DC
+    LogonGuid: {00000000-0000-0000-0000-000000000000}
+    TransmittedServices: -
+    LmPackageName: -
+    KeyLength: 0
+    ProcessId: 0x44c
+    ProcessName: C:\Windows\System32\svchost.exe
+    IpAddress: 192.168.100.20
+    IpPort: 3389
+    ImpersonationLevel: %%1833
+    RestrictedAdminMode: -
+    TargetOutboundUserName: -
+    TargetOutboundDomainName: -
+    VirtualAccount: %%1843
+    TargetLinkedLogonId: 0x0
+    ElevatedToken: %%1842
+ ----------------------------------------------------------------------------
